@@ -1,3 +1,35 @@
+### Videodan izleyebilirsiniz.
+
+[![Watch the video] <video src="https://user-images.githubusercontent.com/74843274/207040836-0d262915-93e8-4850-8dbe-b2c48c654e04.mp4
+"></video>
+### Video Bitti
+
+<video src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
+
+
+
+<video src="https://www.youtube.com/watch?v=zLRR7FGlpiA"></video>
+<video src='https://www.youtube.com/watch?v=zLRR7FGlpiA' width=180/>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+https://user-images.githubusercontent.com/74843274/206893854-c4d579f9-aa30-4bc3-ab11-ff8ed31eec2d.mp4
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
+
+
+### Ekran görüntüleri 1 --> API den axios bağlantı arama, listeleme
+![alt resim1](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/aramaYapilacak.PNG)
+
+### Ekran görüntüleri 2
+![alt resim2](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/aramasonuclari.PNG)
+
+### TrickNotes 1
+![alt resim3](https://raw.githubusercontent.com/ordinat05/axios-react/master/src/AppScreenShot/notes.PNG)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
